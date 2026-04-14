@@ -1,0 +1,28 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Agent / tooling local state
+.claude/
+.codex
+
+# Python
+__pycache__/
+*.pyc
+
+# Local-only raw materials
+private_raw/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Optional: large originals or edit files
+*.psd
+*.ai
+*.xcf
+
+AGENTS.md   
+CLAUDE.md
