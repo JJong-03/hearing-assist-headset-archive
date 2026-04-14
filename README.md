@@ -70,11 +70,11 @@
       <br><em>Raspberry Pi Pico 모듈</em>
     </td>
     <td align="center">
-      <img src="assets/images/internal/headset_added_3d_printing_part.jpg" width="268" alt="3D 프린팅 부품">
+      <img src="assets/images/internal/headset_added_3d_printing_part.jpg" width="200" alt="3D 프린팅 부품">
       <br><em>3D 프린팅 구조 부품</em>
     </td>
     <td align="center">
-      <img src="assets/images/internal/headset_cushion.jpg" width="300" alt="헤드셋 쿠션">
+      <img src="assets/images/internal/headset_cushion.jpg" width="200" alt="헤드셋 쿠션">
       <br><em>헤드셋 쿠션</em>
     </td>
   </tr>
